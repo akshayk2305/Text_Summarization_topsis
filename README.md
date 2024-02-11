@@ -22,8 +22,8 @@
 - "BigSneed/autotrain-sima-2512277279"
   
 ## Method -
--TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) is a multi-criteria decision-making method that evaluates alternatives based on their proximity to the best and farthest possible outcomes, providing a ranking for decision support. 
--It considers both positive and negative aspects to determine the optimal choice.
+- TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) is a multi-criteria decision-making method that evaluates alternatives based on their proximity to the best and farthest possible outcomes, providing a ranking for decision support. 
+- It considers both positive and negative aspects to determine the optimal choice.
 
 ## Result -
 ![image](https://github.com/akshayk2305/Text_Summarization_topsis/assets/97044134/607daec7-439a-4072-940a-0d13df7c530a)
